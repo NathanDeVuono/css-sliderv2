@@ -10,7 +10,7 @@
   <header class="wrap border-bottom-thick">
     <h1 class="center">Responsive CSS Slider Version 2</h1>
   </header>
-  <p class="wrap border-bottom-thin">This is a completely CSS-based, responsive slider.  Its a cleaned-up, leaner, more svelte version of my previous CSS slider.  In this version I've used SCSS to create an external library for most of the slider controls/logic and I've left only styling to be done in the main css file.</p>
+  <p class="wrap border-bottom-thin">This is a completely CSS-based, responsive slider. This version uses all of the same principles that my previous version did, however I've switched to the <code>translate3d</code> property to allow for proper GPU rendering - thus helping devices with lower processor speeds to render the transition smoothly.</p>
   <div class="slider">
     <input type="radio" name="controls" id="slide1" checked>
     <input type="radio" name="controls" id="slide2">
