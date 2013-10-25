@@ -4,6 +4,9 @@
   #slide#{$i}:checked ~ .frame .slides {
     // -webkit-transform:translate3d(-(#{($i - 1)*100%}), 0, 0);
     // transform:translate3d(-(#{($i - 1)*100%}), 0, 0);
+
+// Change translation percentage here
+
     -webkit-transform:translate3d(-(#{($i - 1)*33%}), 0, 0);
     transform:translate3d(-(#{($i - 1)*33%}), 0, 0);
     -webkit-transition:all ease .7s;

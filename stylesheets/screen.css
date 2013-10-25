@@ -86,7 +86,7 @@
   transition: all ease .7s;
 }
 
-/* line 16, ../sass/_sliderv2.scss */
+/* line 19, ../sass/_sliderv2.scss */
 #slide1:checked ~ .controls label[for="slide2"] {
   display: block;
   float: right;
@@ -97,7 +97,7 @@
   width: 50px;
 }
 
-/* line 16, ../sass/_sliderv2.scss */
+/* line 19, ../sass/_sliderv2.scss */
 #slide2:checked ~ .controls label[for="slide3"] {
   display: block;
   float: right;
@@ -108,7 +108,7 @@
   width: 50px;
 }
 
-/* line 16, ../sass/_sliderv2.scss */
+/* line 19, ../sass/_sliderv2.scss */
 #slide3:checked ~ .controls label[for="slide4"] {
   display: block;
   float: right;
@@ -119,7 +119,7 @@
   width: 50px;
 }
 
-/* line 16, ../sass/_sliderv2.scss */
+/* line 19, ../sass/_sliderv2.scss */
 #slide4:checked ~ .controls label[for="slide5"] {
   display: block;
   float: right;
@@ -130,7 +130,7 @@
   width: 50px;
 }
 
-/* line 16, ../sass/_sliderv2.scss */
+/* line 19, ../sass/_sliderv2.scss */
 #slide5:checked ~ .controls label[for="slide6"] {
   display: block;
   float: right;
@@ -141,7 +141,7 @@
   width: 50px;
 }
 
-/* line 16, ../sass/_sliderv2.scss */
+/* line 19, ../sass/_sliderv2.scss */
 #slide6:checked ~ .controls label[for="slide7"] {
   display: block;
   float: right;
@@ -152,7 +152,7 @@
   width: 50px;
 }
 
-/* line 16, ../sass/_sliderv2.scss */
+/* line 19, ../sass/_sliderv2.scss */
 #slide7:checked ~ .controls label[for="slide8"] {
   display: block;
   float: right;
@@ -163,7 +163,7 @@
   width: 50px;
 }
 
-/* line 16, ../sass/_sliderv2.scss */
+/* line 19, ../sass/_sliderv2.scss */
 #slide8:checked ~ .controls label[for="slide9"] {
   display: block;
   float: right;
@@ -174,7 +174,7 @@
   width: 50px;
 }
 
-/* line 16, ../sass/_sliderv2.scss */
+/* line 19, ../sass/_sliderv2.scss */
 #slide9:checked ~ .controls label[for="slide10"] {
   display: block;
   float: right;
@@ -185,7 +185,7 @@
   width: 50px;
 }
 
-/* line 16, ../sass/_sliderv2.scss */
+/* line 19, ../sass/_sliderv2.scss */
 #slide10:checked ~ .controls label[for="slide11"] {
   display: block;
   float: right;
@@ -196,7 +196,7 @@
   width: 50px;
 }
 
-/* line 27, ../sass/_sliderv2.scss */
+/* line 30, ../sass/_sliderv2.scss */
 #slide3:checked ~ .controls label[for="slide1"] {
   display: block;
   float: right;
@@ -207,7 +207,7 @@
   width: 50px;
 }
 
-/* line 38, ../sass/_sliderv2.scss */
+/* line 41, ../sass/_sliderv2.scss */
 #slide1:checked ~ .controls label[for="slide3"] {
   background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAG0lEQVQYlWNgQANfv379D8PocoNaEUkKh4BiAKS1dAUutz8GAAAAAElFTkSuQmCC), #232323;
   background-repeat: no-repeat, repeat;
@@ -218,7 +218,7 @@
   width: 50px;
 }
 
-/* line 49, ../sass/_sliderv2.scss */
+/* line 52, ../sass/_sliderv2.scss */
 #slide2:checked ~ .controls label[for="slide1"] {
   background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAG0lEQVQYlWNgQANfv379D8PocoNaEUkKh4BiAKS1dAUutz8GAAAAAElFTkSuQmCC), #232323;
   background-repeat: no-repeat, repeat;
@@ -229,7 +229,7 @@
   width: 50px;
 }
 
-/* line 49, ../sass/_sliderv2.scss */
+/* line 52, ../sass/_sliderv2.scss */
 #slide3:checked ~ .controls label[for="slide2"] {
   background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAG0lEQVQYlWNgQANfv379D8PocoNaEUkKh4BiAKS1dAUutz8GAAAAAElFTkSuQmCC), #232323;
   background-repeat: no-repeat, repeat;
@@ -240,7 +240,7 @@
   width: 50px;
 }
 
-/* line 49, ../sass/_sliderv2.scss */
+/* line 52, ../sass/_sliderv2.scss */
 #slide4:checked ~ .controls label[for="slide3"] {
   background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAG0lEQVQYlWNgQANfv379D8PocoNaEUkKh4BiAKS1dAUutz8GAAAAAElFTkSuQmCC), #232323;
   background-repeat: no-repeat, repeat;
@@ -251,7 +251,7 @@
   width: 50px;
 }
 
-/* line 49, ../sass/_sliderv2.scss */
+/* line 52, ../sass/_sliderv2.scss */
 #slide5:checked ~ .controls label[for="slide4"] {
   background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAG0lEQVQYlWNgQANfv379D8PocoNaEUkKh4BiAKS1dAUutz8GAAAAAElFTkSuQmCC), #232323;
   background-repeat: no-repeat, repeat;
@@ -262,7 +262,7 @@
   width: 50px;
 }
 
-/* line 49, ../sass/_sliderv2.scss */
+/* line 52, ../sass/_sliderv2.scss */
 #slide6:checked ~ .controls label[for="slide5"] {
   background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAG0lEQVQYlWNgQANfv379D8PocoNaEUkKh4BiAKS1dAUutz8GAAAAAElFTkSuQmCC), #232323;
   background-repeat: no-repeat, repeat;
@@ -273,7 +273,7 @@
   width: 50px;
 }
 
-/* line 49, ../sass/_sliderv2.scss */
+/* line 52, ../sass/_sliderv2.scss */
 #slide7:checked ~ .controls label[for="slide6"] {
   background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAG0lEQVQYlWNgQANfv379D8PocoNaEUkKh4BiAKS1dAUutz8GAAAAAElFTkSuQmCC), #232323;
   background-repeat: no-repeat, repeat;
@@ -284,7 +284,7 @@
   width: 50px;
 }
 
-/* line 49, ../sass/_sliderv2.scss */
+/* line 52, ../sass/_sliderv2.scss */
 #slide8:checked ~ .controls label[for="slide7"] {
   background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAG0lEQVQYlWNgQANfv379D8PocoNaEUkKh4BiAKS1dAUutz8GAAAAAElFTkSuQmCC), #232323;
   background-repeat: no-repeat, repeat;
@@ -295,7 +295,7 @@
   width: 50px;
 }
 
-/* line 49, ../sass/_sliderv2.scss */
+/* line 52, ../sass/_sliderv2.scss */
 #slide9:checked ~ .controls label[for="slide8"] {
   background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAG0lEQVQYlWNgQANfv379D8PocoNaEUkKh4BiAKS1dAUutz8GAAAAAElFTkSuQmCC), #232323;
   background-repeat: no-repeat, repeat;
@@ -306,7 +306,7 @@
   width: 50px;
 }
 
-/* line 49, ../sass/_sliderv2.scss */
+/* line 52, ../sass/_sliderv2.scss */
 #slide10:checked ~ .controls label[for="slide9"] {
   background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAG0lEQVQYlWNgQANfv379D8PocoNaEUkKh4BiAKS1dAUutz8GAAAAAElFTkSuQmCC), #232323;
   background-repeat: no-repeat, repeat;
@@ -317,61 +317,61 @@
   width: 50px;
 }
 
-/* line 63, ../sass/_sliderv2.scss */
+/* line 66, ../sass/_sliderv2.scss */
 #slide1:checked ~ .active label[for="slide1"] {
   background: #333;
 }
 
-/* line 63, ../sass/_sliderv2.scss */
+/* line 66, ../sass/_sliderv2.scss */
 #slide2:checked ~ .active label[for="slide2"] {
   background: #333;
 }
 
-/* line 63, ../sass/_sliderv2.scss */
+/* line 66, ../sass/_sliderv2.scss */
 #slide3:checked ~ .active label[for="slide3"] {
   background: #333;
 }
 
-/* line 63, ../sass/_sliderv2.scss */
+/* line 66, ../sass/_sliderv2.scss */
 #slide4:checked ~ .active label[for="slide4"] {
   background: #333;
 }
 
-/* line 63, ../sass/_sliderv2.scss */
+/* line 66, ../sass/_sliderv2.scss */
 #slide5:checked ~ .active label[for="slide5"] {
   background: #333;
 }
 
-/* line 63, ../sass/_sliderv2.scss */
+/* line 66, ../sass/_sliderv2.scss */
 #slide6:checked ~ .active label[for="slide6"] {
   background: #333;
 }
 
-/* line 63, ../sass/_sliderv2.scss */
+/* line 66, ../sass/_sliderv2.scss */
 #slide7:checked ~ .active label[for="slide7"] {
   background: #333;
 }
 
-/* line 63, ../sass/_sliderv2.scss */
+/* line 66, ../sass/_sliderv2.scss */
 #slide8:checked ~ .active label[for="slide8"] {
   background: #333;
 }
 
-/* line 63, ../sass/_sliderv2.scss */
+/* line 66, ../sass/_sliderv2.scss */
 #slide9:checked ~ .active label[for="slide9"] {
   background: #333;
 }
 
-/* line 63, ../sass/_sliderv2.scss */
+/* line 66, ../sass/_sliderv2.scss */
 #slide10:checked ~ .active label[for="slide10"] {
   background: #333;
 }
 
-/* line 68, ../sass/_sliderv2.scss */
+/* line 71, ../sass/_sliderv2.scss */
 .active {
   margin: 1em auto;
 }
-/* line 70, ../sass/_sliderv2.scss */
+/* line 73, ../sass/_sliderv2.scss */
 .active label {
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -382,37 +382,37 @@
   background: #bbb;
   margin: 2px;
 }
-/* line 79, ../sass/_sliderv2.scss */
+/* line 82, ../sass/_sliderv2.scss */
 .active label:hover {
   background: #ccc;
   border-color: #777;
 }
 
-/* line 88, ../sass/_sliderv2.scss */
+/* line 91, ../sass/_sliderv2.scss */
 .controls label {
   opacity: 0.4;
 }
-/* line 90, ../sass/_sliderv2.scss */
+/* line 93, ../sass/_sliderv2.scss */
 .controls label:hover {
   opacity: .8;
 }
 
-/* line 96, ../sass/_sliderv2.scss */
+/* line 99, ../sass/_sliderv2.scss */
 input[name="controls"] {
   display: none;
 }
 
-/* line 100, ../sass/_sliderv2.scss */
+/* line 103, ../sass/_sliderv2.scss */
 .frame {
   width: 100%;
   overflow: hidden;
 }
 
-/* line 105, ../sass/_sliderv2.scss */
+/* line 108, ../sass/_sliderv2.scss */
 .slide {
   float: left;
 }
-/* line 107, ../sass/_sliderv2.scss */
+/* line 110, ../sass/_sliderv2.scss */
 .slide img {
   max-width: 100%;
 }
